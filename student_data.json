@@ -1,0 +1,22 @@
+{
+	"0001": {
+		"final_grade": 95.6,
+		"grade_letter": "A"
+	},
+	 "0002": {
+                "final_grade": 73.8,
+                "grade_letter": "C"
+	 },
+	  "0003": {
+                "final_grade": 86.1,
+                "grade_letter": "B"
+	  },
+	   "0004": {
+                "final_grade": 98.3,
+                "grade_letter": "A"
+	   },
+	    "0005": {
+                "final_grade": 65.2,
+                "grade_letter": "D"
+	    }
+}
